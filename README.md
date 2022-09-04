@@ -7,6 +7,7 @@
 My FreeCodeCamp course projects:
 - [Random Quote Machine](https://duonqhoang.github.io/Random-Quote-Machine)
 - [Markdown Previewer](https://duonqhoang.github.io/markdown-previewer)
+- [Drum Machine](https://duonqhoang.github.io/Drum-Machine)
 - [Calculator](https://duonqhoang.github.io/calculator)
 - [Pomodoro Timer](https://duonqhoang.github.io/pomodoro-timer)
 
