@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duonqHoang
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in sleeping
+- 🌱 I’m currently learning to sleep
 - 💞️ I’m looking to collaborate on ... ?
 - 📫 Reach me : duonghoangv06@gmail.com
 
