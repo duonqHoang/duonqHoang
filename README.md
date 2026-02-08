@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @duonqHoang
-- 🌱 I’m currently studying at University of Engineering and Technology (UET) - VNU
 - 📫 Reach me : duonghoangv06@gmail.com
-- 📝 Visit my digital garden: https://duonqhoang.vercel.app/
